@@ -1,0 +1,62 @@
+.Container
+{
+background:rgb(32, 113, 235);
+position: absolute;
+width: 438px;
+height: 760px;
+left:10px;
+top:10px;
+
+}
+
+.numberStyle
+{
+color:white;
+font-size:30px;
+width: 100px;
+height: 100px;
+position: relative;
+text-align:center;
+line-height:100px;
+margin-left :5px;
+margin-top : 5px;
+background: grey;
+}
+
+.operStyle
+{
+    color:white;
+    font-size:30px;
+    width: 100px;
+    height: 100px;
+    position: relative;
+    text-align:center;
+    line-height:100px;
+    margin-left :5px;
+    margin-top : 5px;
+    background: darkgrey;
+}
+
+.ansStyle
+{
+    background:white;
+    width: 423px;
+    height: 100px;
+    position: relative;
+    margin-left :5px;
+    margin-top : 5px;
+    font-size: 50px;
+    }
+
+#equ
+{
+color:white;
+    font-size:30px;
+    width: 428px;
+    height: 100px;
+    position: relative;
+    text-align:center;
+    line-height:100px;
+    margin-left :5px;
+    margin-top : 5px;
+    background: darkgrey;
